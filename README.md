@@ -12,28 +12,7 @@
 
 随着移动互联网的飞速发展，智能电子设备普及率达到前所未有的高度。对于视力障碍人士，智能电子设备提供屏幕朗读器等特殊辅助功能，协助他们正常使用这些设备。
 
-<iframe 
-src="http://47.100.78.158:8080/img/video/Av001.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
-
-
-<iframe 
-src="http://47.100.78.158:8080/img/video/Av002.mp4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[这才是iPhone的最强功能，不接受反驳——视觉无障碍功能体验 - 1.这才是iPhone的最强功能，不接受反驳]: http://47.100.78.158:8080/img/video/Av002.mp4
 
 **现状分析**
 
@@ -50,6 +29,8 @@ width=800>
 
 
 - 针对视力障碍人士的特殊操作模式，例如Talkback
+
+  [「小白测评」盲人用手机什么感觉？9大品牌无障碍测试 关注视障人群 - 1.无障碍输出]: http://47.100.78.158:8080/img/video/Av001.mp4
 
 
 - 需要用到语音识别和自然语言处理以及基于触觉和力反馈的技术
